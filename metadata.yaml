@@ -1,0 +1,30 @@
+_repo: The-Age-of-ErasmusLectures-Delivered-in-the-Universities-of-Oxford-and-London_15810
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Allen, P. S. (Percy Stafford)
+    alias: Allen, Percy Stafford
+    birthdate: 1869
+    deathdate: 1933
+    gutenberg_agent_id: '2724'
+    url: http://www.gutenberg.org/2009/agents/2724
+description: ''
+gutenberg_issued: '2005-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15810'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Renaissance'
+- !lcc 'CB'
+- !lcsh 'Erasmus, Desiderius, -1536'
+title: 'The Age of Erasmus
+
+  Lectures Delivered in the Universities of Oxford and London'
+url: http://www.gutenberg.org/ebooks/15810
