@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '2724'
     url: http://www.gutenberg.org/2009/agents/2724
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15810#The-Age-of-ErasmusLectures-Delivered-in-the-Universities-of-Oxford-and-London
 gutenberg_issued: '2005-05-10'
 gutenberg_type: Text
 identifiers:
